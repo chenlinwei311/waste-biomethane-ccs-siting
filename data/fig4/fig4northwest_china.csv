@@ -1,0 +1,15 @@
+﻿plant_id,lon,lat,province,region,E_Mit_Mt_tCO2eq_per_yr,avg_E_Mit_cost_usd_per_tCO2eq,total_mitigation
+490,106.27,38.53,Ningxia,Northwest_China,0.081968,-63.305,0.081968
+231,106.18,37.99,Ningxia,Northwest_China,0.130135,-62.486,0.212103
+360,102.76,37.84,Gansu,Northwest_China,0.09969,-62.218,0.311793
+373,80.59,44.38,Xinjiang,Northwest_China,0.100142,-58.087,0.411935
+134,80.71,43.94,Xinjiang,Northwest_China,0.162549,-48.563,0.574484
+109,86,44.4,Xinjiang,Northwest_China,0.176884,-47.271,0.751368
+251,109.14,34.66,Shaanxi,Northwest_China,0.123167,-46.933,0.874535
+221,81.21,43.84,Xinjiang,Northwest_China,0.134567,-36.547,1.009102
+311,87.48,44.25,Xinjiang,Northwest_China,0.11352,-31.772,1.122622
+492,82.21,43.42,Xinjiang,Northwest_China,0.086883,-29.965,1.209505
+424,108.07,34.36,Shaanxi,Northwest_China,0.092033,-28.897,1.301538
+316,76.02,39.35,Xinjiang,Northwest_China,0.111413,-16.7,1.412951
+408,77.23,38.31,Xinjiang,Northwest_China,0.097749,-7.035,1.5107
+363,80.32,41.09,Xinjiang,Northwest_China,0.105492,-6.395,1.616192
