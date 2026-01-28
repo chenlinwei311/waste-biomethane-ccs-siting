@@ -13,7 +13,7 @@ Meeting the Paris Agreement goals requires scalable carbon dioxide removal (CDR)
 - `data/` — Figure source data and key input/summary tables (CSV).
 
 ## Data availability (GeoTIFF rasters)
-Large raster inputs (GeoTIFF) are hosted on figshare: **[figshare DOI or link here]**.
+Large raster inputs (GeoTIFF) are hosted on figshare: **https://doi.org/10.6084/m9.figshare.31144090**.
 
 ## License
 MIT License (see `LICENSE`).
