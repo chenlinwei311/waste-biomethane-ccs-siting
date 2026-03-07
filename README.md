@@ -1,6 +1,6 @@
 # waste-biomethane-ccs-siting
 
-Code and figure source data for the manuscript **“Waste biomethane–CCS enables cost-effective carbon removal in China”** (submitted to *Nature Sustainability*).
+Code and figure source data for the manuscript **“Waste biomethane–CCS enables cost-effective carbon removal in China”**.
 
 **Authors:** Leichang Cao, Chenlin Wei, Jieni Wang, Haodong Hou, Huilan Hou, Gang Luo, Angelidaki Irini, Daniel C.W. Tsang4, Yifei Sun, Shicheng Zhang, James H. Clark 
 
