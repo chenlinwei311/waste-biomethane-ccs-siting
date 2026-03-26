@@ -13,7 +13,7 @@ Deploying distributed bioenergy with carbon capture and storage (BECCS) requires
 - `data/` — Figure source data and key input/summary tables (CSV).
 
 ## Data availability (GeoTIFF rasters)
-Large raster inputs (GeoTIFF) are hosted on figshare: **https://doi.org/10.17632/z35df3zxcj.1**.
+Large raster inputs (GeoTIFF) are hosted on figshare: **https://doi.org/10.5281/zenodo.19237354**.
 
 ## License
 MIT License (see `LICENSE`).
